@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "1057237681668",
+    "project_id": "flutterapps-f42c8",
+    "storage_bucket": "flutterapps-f42c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057237681668:android:2c4a75d7fc21dd89b6d751",
+        "android_client_info": {
+          "package_name": "com.example.flexfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057237681668-eiad8ue0op4mt06fgbgraknpubdk8c5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5y25LWRH3fNq2U8Q9mIpJcg9IIQTTZ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057237681668-98knsl7urleajmtdpq8sa8rls57sq05r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057237681668-biod1evvg3qkaagsm3ttdec0t1h92hmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tetris"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057237681668:android:9e5dee7e8d41ab9cb6d751",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057237681668-i38f40lnld9enaahi02br13olpiqq2gb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.health",
+            "certificate_hash": "2cdc84413fe8fb688d60ff62d94e625d25e22ed1"
+          }
+        },
+        {
+          "client_id": "1057237681668-eiad8ue0op4mt06fgbgraknpubdk8c5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5y25LWRH3fNq2U8Q9mIpJcg9IIQTTZ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057237681668-98knsl7urleajmtdpq8sa8rls57sq05r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057237681668-biod1evvg3qkaagsm3ttdec0t1h92hmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tetris"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057237681668:android:9752bdbd9a7b4d0cb6d751",
+        "android_client_info": {
+          "package_name": "com.example.iwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057237681668-eiad8ue0op4mt06fgbgraknpubdk8c5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5y25LWRH3fNq2U8Q9mIpJcg9IIQTTZ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057237681668-98knsl7urleajmtdpq8sa8rls57sq05r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057237681668-biod1evvg3qkaagsm3ttdec0t1h92hmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tetris"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057237681668:android:2818524d88530034b6d751",
+        "android_client_info": {
+          "package_name": "com.example.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057237681668-eiad8ue0op4mt06fgbgraknpubdk8c5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5y25LWRH3fNq2U8Q9mIpJcg9IIQTTZ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057237681668-98knsl7urleajmtdpq8sa8rls57sq05r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057237681668-biod1evvg3qkaagsm3ttdec0t1h92hmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tetris"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
