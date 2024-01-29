@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../../components/constants.dart';
 import '../../components/tabBar.dart';
 import 'components/notification_button.dart';
