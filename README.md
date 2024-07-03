@@ -1,6 +1,6 @@
 # flexfit
 
-A new Flutter project.
+Health & Exercise App
 
 ## Getting Started
 
