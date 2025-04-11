@@ -10,32 +10,9 @@
 
 <h2 align="center">Screenshots</h2>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/7a6239e3-0fbb-4a1b-9b33-fcc785febfcd" alt="Home Screen" width="150"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/921c17c4-4af2-4348-8c95-f04946aeb518" alt="Nutrition Screen" width="150"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/7623ef38-6314-46cc-b245-e23a691315cd" alt="To-Do Screen" width="150"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/77182864-cf23-4bdb-9586-f00c27c64cbf" alt="BMI Calculator Screen" width="150"></td>
-  </tr>
-  <tr>
-    <td align="center">Home Screen</td>
-    <td align="center">Nutrition Screen</td>
-    <td align="center">Exercise Screen</td>
-    <td align="center">To-Do Screen</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/2d9a09f0-c5fd-4f9f-92f2-06ede805cd28" alt="Statistics Screen" width="150"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/3d47145f-1697-409d-86c8-cc5b36f61585" alt="Exercise Screen" width="150"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/30751b05-54ee-4efe-960a-459bbb48f298" alt="Timer Screen" width="150"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/bd684568-3e4a-4908-9a07-0980cc300e3b" alt="Profile Screen" width="150"></td>
-  </tr>
-  <tr>
-    <td align="center">Statistics Screen</td>
-    <td align="center">Times Screen</td>
-    <td align="center">BMI Calculator Screen</td>
-    <td align="center">Profile Screen</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/30742449-6190-464f-85de-c2c115af0fd4" alt="FlexFit Screenshot" width="3487">
+</div>
 
 <h2>Features</h2>
 <ul>
